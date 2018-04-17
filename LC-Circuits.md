@@ -13,3 +13,10 @@
   ## Resonance LC circuit
   * When it's on Resonance where Xc = Xl. and Inductor//Capacitor(Parallel)
     * Tank circuit is formed. No It(totalCurrent). Because Sum current to cap and inductor sums to **Zero**
+
+
+  + Manojkumar
+  + manoj@electrolance.com
+  + www.electrolance.com
+
+![](http://electrolance.com/img/logo-alt.png)
