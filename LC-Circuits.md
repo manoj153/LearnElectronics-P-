@@ -15,6 +15,7 @@
     * Tank circuit is formed. No It(totalCurrent). Because Sum current to cap and inductor sums to **Zero**
 
 
+***
   + Manojkumar
   + manoj@electrolance.com
   + www.electrolance.com
