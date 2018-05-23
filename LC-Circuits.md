@@ -15,12 +15,12 @@
     * Tank circuit is formed. No It(totalCurrent). Because Sum current to cap and inductor sums to **Zero**
 
 ## Design Approach 
- * Low Frequency 
+* Low Frequency 
   * Current loop will take the shortest path due to low resistance. 
- * High Frequency
+* High Frequency
   * Current loop will take the path with lowest impidance. like the coax-shield pair.
   
-  * **WHY ????**
+ * **WHY ????**
    * This is due to the impidance is calculated = R + jωL. Where when the loop area is bigger the inductance increases as result the higer the frquency the more the impidance.
 
 ***
